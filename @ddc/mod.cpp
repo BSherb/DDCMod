@@ -1,0 +1,12 @@
+name = "DDCA3 Gear";
+picture = "cadpat.paa";
+actionName = "Our Website";
+action = "https://ddca3.com";
+description = "DDC Gear v0.1a";
+logo = "cadpat.paa";
+logoOver = "cadpat.paa";
+tooltip = "DDCA3";
+tooltipOwned = "DDCA3 Owned";
+overview = "This addon provides DDC themed gear and patches.";
+author = "Schwerer_Konigstiger";
+overviewPicture = "cadpat.paa";
