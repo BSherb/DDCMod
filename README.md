@@ -1,6 +1,4 @@
 # DDCMod
 
-## Please see our self-hosted [gitlab](https://gitlab.ddca3.com).
+## The Generic DDCMod
 
-We are no longer hosting our repositories on github.
-Thank you!
