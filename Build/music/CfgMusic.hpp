@@ -10,5 +10,5 @@ class CfgMusic
 
 
 
-	#include "ddc_music.hpp"
+	#include "CfgMusicClasses.hpp"
 };
