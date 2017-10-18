@@ -90,5 +90,20 @@ class CfgUnitInsignia {
 		displayName = "[DDC]Konigstiger 2017 Misuzu"
 		texture = "\ddc\data\misuzu.paa"
 		author = "Schwerer_Konigstiger"
+	};	class ddc_monika {
+		displayName = "[DDC]Konigstiger 2017 Just Monika"
+		texture = "\ddc\data\monika.paa"
+		author = "Schwerer_Konigstiger"
+	};
+
+	class ddc_tomo {
+		displayName = "[DDC]Konigstiger 2017 Tomo"
+		texture = "\ddc\data\tomochan.paa"
+		author = "Schwerer_Konigstiger"
+	};
+	class ddc_rip_sayori {
+		displayName = "[DDC]RIP Sayori"
+		texture = "\ddc\data\sayoririp.paa"
+		author = "Schwerer_Konigstiger"
 	};
 };
