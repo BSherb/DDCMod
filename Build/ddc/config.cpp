@@ -8,6 +8,4 @@ enum {
 	_YSPACING = 0,
 };
 
-#include "CfgUnitInsignia.hpp"
-#include "UniformSlotInfo.hpp"
 #include "CfgPatches.hpp"
