@@ -3,107 +3,107 @@ class CfgUnitInsignia {
 
 	class ddc_logo_cadpat {
 		displayName = "[DDC]CADPAT";
-		texture = "\ddc\data\cadpat.paa";
+		texture = "\patches\data\cadpat.paa";
    	author = "Schwerer_Konigstiger";
 	};
 	class ddc_logo_cadpat_des {
 		displayName = "[DDC]CADPAT DESERT";
-		texture = "\ddc\data\cadpatdes.paa";
+		texture = "\patches\data\cadpatdes.paa";
 		author = "Schwerer_Konigstiger";
 	};
 	class ddc_logo_multicam {
 		displayName = "[DDC]MULTICAM";
-		texture = "\ddc\data\multicam.paa";
+		texture = "\patches\data\multicam.paa";
 		author = "Schwerer_Konigstiger";
 	};
 	class ddc_logo_multicam_arid {
 		displayName = "[DDC]MULTICAM ARID";
-		texture = "\ddc\data\multicamarid.paa";
+		texture = "\patches\data\multicamarid.paa";
 		author = "Schwerer_Konigstiger";
 	};
 	class ddc_logo_multicam_black {
 		displayName = "[DDC]MULTICAM BLACK";
-		texture = "\ddc\data\multicamblack.paa";
+		texture = "\patches\data\multicamblack.paa";
 		author = "Schwerer_Konigstiger";
 	};
 	class ddc_logo_ayy_lmao {
 		displayName = "[DDC]AYY LMAO"
-		texture = "\ddc\data\ddcayy.paa"
+		texture = "\patches\data\ddcayy.paa"
 		author = "Schwerer_Konigstiger"
 	};
 	class ddc_commie {
 		displayName = "[DDC]Commie"
-		texture = "\ddc\data\commie.paa"
+		texture = "\patches\data\commie.paa"
 		author = "Schwerer_Konigstiger"
 	};
 	class ddc_panzer_jager {
 		displayName = "[DDC]PanzerJager Battalion"
-		texture = "\ddc\data\panzerjagerbattalion.paa"
+		texture = "\patches\data\panzerjagerbattalion.paa"
 		author = "Schwerer_Konigstiger"
 	};
 	class ddc_rejected {
 		displayName = "[DDC]Konigstiger 2016 Christmas"
-		texture = "\ddc\data\rejected.paa"
+		texture = "\patches\data\rejected.paa"
 		author = "Schwerer_Konigstiger"
 	};
 	class ddc_sparta {
 		displayName = "[DDC]Sparta"
-		texture = "\ddc\data\sparta.paa"
+		texture = "\patches\data\sparta.paa"
 		author = "Schwerer_Konigstiger"
 	};
 	class ddc_yin {
 		displayName = "[DDC]Yin's Patch"
-		texture = "\ddc\data\yin.paa"
+		texture = "\patches\data\yin.paa"
 		author = "Schwerer_Konigstiger"
 	};
 	class ddc_bb {
 		displayName = "[DDC]Bloody Bucket"
-		texture = "\ddc\data\bb.paa"
+		texture = "\patches\data\bb.paa"
 		author = "Schwerer_Konigstiger"
 	};
 	class ddc_finalFantasy {
 		displayName = "[DDC]Final Fantasy"
-		texture = "\ddc\data\FinalFantasy.paa"
+		texture = "\patches\data\FinalFantasy.paa"
 		author = "Schwerer_Konigstiger"
 	};
 	class ddc_katawaShoujo {
 		displayName = "[DDC]Katawa Shoujo"
-		texture = "\ddc\data\katawashoujo.paa"
+		texture = "\patches\data\katawashoujo.paa"
 		author = "Schwerer_Konigstiger"
 	};
 	class ddc_Reichsadler {
 		displayName = "[DDC]Reichsadler"
-		texture = "\ddc\data\Reichsadler.paa"
+		texture = "\patches\data\Reichsadler.paa"
 		author = "Schwerer_Konigstiger"
 	};
 	class ddc_RWBY {
 		displayName = "[DDC]RWBY Rose"
-		texture = "\ddc\data\rwby.paa"
+		texture = "\patches\data\rwby.paa"
 		author = "Schwerer_Konigstiger"
 	};
 	class ddc_haruno {
 		displayName = "[DDC]Konigstiger 2017 Haruno"
-		texture = "\ddc\data\cat.paa"
+		texture = "\patches\data\cat.paa"
 		author = "Schwerer_Konigstiger"
 	};
 	class ddc_misuzu {
 		displayName = "[DDC]Konigstiger 2017 Misuzu"
-		texture = "\ddc\data\misuzu.paa"
+		texture = "\patches\data\misuzu.paa"
 		author = "Schwerer_Konigstiger"
 	};	class ddc_monika {
 		displayName = "[DDC]Konigstiger 2017 Just Monika"
-		texture = "\ddc\data\monika.paa"
+		texture = "\patches\data\monika.paa"
 		author = "Schwerer_Konigstiger"
 	};
 
 	class ddc_tomo {
 		displayName = "[DDC]Konigstiger 2017 Tomo"
-		texture = "\ddc\data\tomochan.paa"
+		texture = "\patches\data\tomochan.paa"
 		author = "Schwerer_Konigstiger"
 	};
 	class ddc_rip_sayori {
 		displayName = "[DDC]RIP Sayori"
-		texture = "\ddc\data\sayoririp.paa"
+		texture = "\patches\data\sayoririp.paa"
 		author = "Schwerer_Konigstiger"
 	};
 };
