@@ -1,5 +1,5 @@
 class CfgPatches {
-	class DDC_Music {
+	class GSC_Music {
 		units[] = {};
 		weapons[] = {};
 		requiredVersion = 1.0;
