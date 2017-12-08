@@ -1,5 +1,5 @@
 class CfgPatches {
-    class ADDON {
+    class GSC_Faction {
         units[] = {};
         weapons[] = {};
         requiredVersion = 0.1
@@ -569,6 +569,4 @@ class CfgPatches {
     };
 };
 
-#include "cfgFactionClasses.hpp"
-#include "cfgVehicleClasses.hpp"
-#include "cfgVehicles.hpp"
+#include "autogen.hpp"
