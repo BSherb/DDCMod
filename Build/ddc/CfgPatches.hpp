@@ -1,5 +1,5 @@
 class CfgPatches {
-	class DDC_Core {
+	class GSC_Core {
 		units[] = {};
 		weapons[] = {};
 		requiredVersion = 1.0;

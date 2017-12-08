@@ -1,6 +1,4 @@
 class CfgUnitInsignia {
-
-
 	class GSC_logo_cadpat {
 		displayName = "[GSC]CADPAT";
 		texture = "\patches\data\cadpat.paa";
